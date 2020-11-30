@@ -1,4 +1,4 @@
-
+#Trabalho realizado pelos Alunos:Lucas dos Santos Garcia/ João Honorato Masague/ Stephanie Namie Hiagon
 idconta = 0
 
 contador = 0
